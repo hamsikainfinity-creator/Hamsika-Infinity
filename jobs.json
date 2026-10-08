@@ -1,0 +1,23 @@
+{
+  "jobs": [
+    {
+      "id": "ssc-cgl-2026",
+      "title": "SSC CGL 2026",
+      "note": "Staff Selection Commission, Combined Graduate Level.",
+      "last": "See notice",
+      "notice": "https://drive.google.com/file/d/1V6Rge0zSKwODtAOS7J1puGdX_eFvhD8D/view?usp=drive_link",
+      "docs": [
+        {
+          "title": "Complete Syllabus Study Guide",
+          "desc": "Every subject and topic covered in the SSC CGL syllabus.",
+          "url": "https://docs.google.com/document/d/1JYo3__9S_7UNPYX2v7sQQfcInDce-HAz/edit"
+        },
+        {
+          "title": "Roadmap",
+          "desc": "A study plan to take you from first day to exam day.",
+          "url": "https://docs.google.com/document/d/1nN7CqZWtvXxWAOzFs-lv4-AQ1ED7SSXi/edit"
+        }
+      ]
+    }
+  ]
+}
